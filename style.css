@@ -9,7 +9,7 @@
   scroll-behavior: smooth;
 }
 
-/* body::-webkit-scrollbar {
+body::-webkit-scrollbar {
   width: 0.5rem;
 }
 
@@ -22,7 +22,7 @@ body::-webkit-scrollbar-thumb {
   background: linear-gradient( black , white );
   border-radius: 15px;
   height: 20px;
-} */
+}
 
 span {
   color: var(--main-color) !important;
