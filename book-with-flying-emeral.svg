@@ -1,0 +1,15 @@
+<svg width="81" height="94" viewBox="0 0 81 94" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="book-with-flying-emeral">
+<g id="book">
+<path id="Rectangle 1" d="M0 45L41 50V71.5V93L0 88V45Z" fill="#3434C2"/>
+<path id="Rectangle 4" d="M5.5 39L40.5 50V71.5V93L5.5 81V66.5V39Z" fill="#5CB6D6" fill-opacity="0.63"/>
+<path id="Rectangle 3" d="M10.5 35.5L40.5 50.5V93.5L10.5 77.5V35.5Z" fill="#2ECC71" fill-opacity="0.59"/>
+<path id="Rectangle 5" d="M80.5 45L40.5 50V71.5V93L80.5 88V45Z" fill="#BD2081"/>
+<path id="Rectangle 6" d="M75.5 39L40.5 50V71.5V93L75.5 81V66.5V39Z" fill="#E11C50" fill-opacity="0.63"/>
+<path id="Rectangle 7" d="M70.5 35L40.5 50V93L70.5 77V35Z" fill="#F1C40F" fill-opacity="0.59"/>
+</g>
+<path id="fly-emeral-middle" d="M40.5 0L47.5 10.6667L40.5 22L33.5 10.6667L40.5 0Z" fill="#A5E67C" fill-opacity="0.8"/>
+<path id="fly-emeral-left" d="M25 12L29.5 18.7879L25 26L20.5 18.7879L25 12Z" fill="#EEC600" fill-opacity="0.8"/>
+<path id="fly-emeral-right" d="M56 12L60.5 18.7879L56 26L51.5 18.7879L56 12Z" fill="#E11C50" fill-opacity="0.8"/>
+</g>
+</svg>
