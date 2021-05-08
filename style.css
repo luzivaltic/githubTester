@@ -9,6 +9,21 @@
   scroll-behavior: smooth;
 }
 
+body::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #1e1e24;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--main-color);
+  /* background: linear-gradient( black , white ); */
+  border-radius: 15px;
+  height: 20px;
+}
+
 span {
   color: var(--main-color) !important;
 }
@@ -147,6 +162,28 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
   /* object-fit: cover; */
+}
+
+.first-page .text-container .flying-book {
+  position: absolute;
+  z-index: 10000;
+  top: 0%;
+  left: 5px;
+}
+
+.first-page .text-container .flying-book .name {
+  position: absolute;
+  width: 100px;
+  top: 80px;
+  left: -5px;
+  color: var(--main-color);
+  font-family: sans-serif;
+  font-weight: 900;
+}
+
+.first-page .flying-book svg {
+  position: absolute;
+  top: -100%;
 }
 
 .first-page .text-container {
@@ -323,7 +360,7 @@ img {
 }
 
 .side-bar.active {
-  width: 60%;
+  width: 60.1%;
 }
 
 .side-bar ul {
